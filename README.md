@@ -1,6 +1,5 @@
 # Time Series Regression Statsmodels
 This repository contains Python code for time series forecasting using statistical models from the statsmodels library. The project demonstrates three different modeling approaches for temperature data from three farms.
-# **Time Series Regression with Statsmodels**  
 **A Nowa Analytics Machine Learning Project**  
 
 ## **Project Overview**  
@@ -72,14 +71,5 @@ pip install statsmodels pandas matplotlib seaborn
 Developed by **Nowa Analytics** under the **MIT License**.  
 
 ---
-
-### **Next Steps**  
-1. **Clone the repository**  
-2. **Run model training & forecasting**  
-3. **Generate AI-enhanced reports**  
-
-🔗 **[GitHub Repository](#)** | 📧 **Contact Nowa Analytics**  
-
---- 
 
 **Nowa Analytics** – *Data-Driven Decisions, Powered by AI*
